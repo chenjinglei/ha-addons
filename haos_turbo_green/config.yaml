@@ -1,5 +1,5 @@
 ---
-version: 2.2.6.7
+version: 2.4.0
 slug: haos_turbo_green
 name: HAOS加速器-Green专版
 description: Home Assistant系统加速器，支持科学 上网，首选使用
