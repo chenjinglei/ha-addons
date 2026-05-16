@@ -9,7 +9,7 @@ arch:
   - amd64
 hassio_api: true
 host_network: true
-image: xyyyhtl/haos-turbo
+image: registry-crs-gsqy2.ctyun.cn/haos-turbo/haos-turbo
 init: false
 boot: manual
 map:
